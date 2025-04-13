@@ -1,4 +1,4 @@
-# iTask - Manage Your Todos At One Place
+# iTaskManager
 
 A sleek, responsive, and feature-rich to-do list application designed to streamline your productivity. Built using **React** and **Tailwind CSS**, this app helps you manage, organize, and keep track of your tasks efficiently.
 
@@ -24,4 +24,4 @@ Follow these steps to get started with the project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/RohitGayal20/iTaskManager.git
