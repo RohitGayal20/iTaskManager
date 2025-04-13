@@ -18,10 +18,4 @@ A sleek, responsive, and feature-rich to-do list application designed to streaml
 - **React Icons** for intuitive icons (edit/delete).
 - **localStorage** for data persistence.
 
-## Installation
 
-Follow these steps to get started with the project:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/RohitGayal20/iTaskManager.git
